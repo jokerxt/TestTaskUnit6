@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestTaskUnit6</string>
+    <string name="buttonStart">Start</string>
+    <string name="buttonStop">Stop</string>
+    <string name="first_name">First name</string>
+    <string name="age">Age</string>
+    <string name="second_name">Second name</string>
+    <string name="address">Address</string>
+</resources>
