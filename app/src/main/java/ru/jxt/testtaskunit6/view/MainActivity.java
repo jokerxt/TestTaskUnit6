@@ -118,7 +118,7 @@ public class MainActivity extends AppCompatActivity implements MainView {
 
     @Override
     public void showNetworkRequestErrorToast(String error) {
-        Toast.makeText(this, "Network request error: " + error, Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "111111  Network Request error: " + error, Toast.LENGTH_SHORT).show();
     }
 
     @Override
